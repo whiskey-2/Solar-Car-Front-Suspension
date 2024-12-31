@@ -45,3 +45,5 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 ## The Final Result
 
 The front suspension was completed and passed scrutineering at the competition, where I installed the brakes for the vehicle. 
+
+![Front Assembly Completed](Assets/susp6.jpg)
