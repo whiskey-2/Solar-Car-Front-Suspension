@@ -1,14 +1,15 @@
 # Solar Car Front Suspension
-The McMaster Solar Car Front Suspension assembly, and my role in it's contribution as a Suspension and Dynamics Subteam member
+The McMaster Solar Car Front Suspension assembly and my role in it's contribution as a Suspension and Dynamics Subteam member
 
 ## Engineering Overview: Role in Front Assembly Team
 
-As a member of the Suspension and Dynamics subteam, my primary responsibilities included the design, analysis, manufacturing, and optimization of the vehicle’s suspension and driving dynamics. My contributions were critical during the early design and manufacturing phases of the front suspension system.  
+As a member of the Suspension and Dynamics subteam, my primary responsibilities included the design, analysis, manufacturing, and optimization of the vehicle’s suspension and driving dynamics. My contributions were critical during the front suspension system's early design and manufacturing phases.  
 ### Key Contributions:
 
 **Simulation and Analysis of Front Upright Assembly:**
 
-+ Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 2.  
++ Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 1.4.
+![Upright Assembly FEA Result](assets/susp1)
 + Identified primary areas of concern, including the Control Arm and the Upper Control Arm (UCA) Mount, both of which exhibited shear failure under load.  
 
 **Control Arm Improvements:**
