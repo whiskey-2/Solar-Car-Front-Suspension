@@ -7,8 +7,8 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 ### Key Contributions:
 
 **Simulation and Analysis of Front Upright Assembly:**  
-      - Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 2.  
-      - Identified primary areas of concern, including the Control Arm and the Upper Control Arm (UCA) Mount, both of which exhibited shear failure under load.  
+      + Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 2.  
+      + Identified primary areas of concern, including the Control Arm and the Upper Control Arm (UCA) Mount, both of which exhibited shear failure under load.  
 
 **Control Arm Improvements:**  
       - Enhanced the Control Arm by adding structural ribs along the high-stress regions.  
