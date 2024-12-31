@@ -10,24 +10,30 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 
 + Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 1.4.
 
-<div style="border-radius:10px">![Suspension](Assets/susp1.jpg)</div>
+![Suspension](Assets/susp2.png)
 
 + Identified primary areas of concern, including the Control Arm and the Upper Control Arm (UCA) Mount, both of which exhibited shear failure under load.  
 
 **Control Arm Improvements:**
 
 + Enhanced the Control Arm by adding structural ribs along the high-stress regions.  
-- Incorporated a central pin to evenly distribute shear forces, significantly improving the component’s durability.  
+- Incorporated a central pin to evenly distribute shear forces, significantly improving the component’s durability.
+
+![Control Arm](Assets/susp3.png) 
 
 **Redesign of UCA Mount:**
 
-- Redesigned the UCA Mount to simplify its geometry, improving manufacturability while addressing shear stress concerns.  
+- Redesigned the UCA Mount to simplify its geometry, improving manufacturability while addressing shear stress concerns, which are shown in the image below.  
 - Introduced a distribution plate to offset pin shear, ensuring improved load distribution and structural integrity.  
+
+![UCA Mount](Assets/susp4.png)
 
 **Restoration of Full Upright Assembly:**
 
 - Resolved inconsistencies in the assembly, including missing files, misaligned components, and non-compliant bolts.  
-- Verified that all bolts adhered to specifications and ensured the dynamic functionality of the assembly.  
+- Verified that all bolts adhered to specifications and ensured the dynamic functionality of the assembly.
+
+![UCA Mount](Assets/susp1.jpg)
 
 **Assembly Drawing Creation:**
 
