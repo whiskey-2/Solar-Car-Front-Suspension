@@ -19,14 +19,14 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 **Redesign of UCA Mount:**
 
 - Redesigned the UCA Mount to simplify its geometry, improving manufacturability while addressing shear stress concerns.  
-      - Introduced a distribution plate to offset pin shear, ensuring improved load distribution and structural integrity.  
+- Introduced a distribution plate to offset pin shear, ensuring improved load distribution and structural integrity.  
 
 **Restoration of Full Upright Assembly:**
 
 - Resolved inconsistencies in the assembly, including missing files, misaligned components, and non-compliant bolts.  
-      - Verified that all bolts adhered to specifications and ensured the dynamic functionality of the assembly.  
+- Verified that all bolts adhered to specifications and ensured the dynamic functionality of the assembly.  
 
 **Assembly Drawing Creation:**
 
 - Produced an exploded assembly drawing detailing all major components and required quantities for manufacturing and backup purposes.  
-      - Simplified the drawing by excluding bolts to focus on the core elements, making it a practical reference for optimization and improvement discussions.  
+- Simplified the drawing by excluding bolts to focus on the core elements, making it a practical reference for optimization and improvement discussions.  
