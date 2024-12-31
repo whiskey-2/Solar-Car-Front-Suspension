@@ -10,7 +10,7 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 
 + Conducted stress analysis on the Front Upright Assembly to evaluate critical failure points and ensure a Factor of Safety (FOS) of at least 1.4.
 
-![Suspension](Assets/susp2.png)
+![Upright Assembly FEA](Assets/susp2.png)
 
 + Identified primary areas of concern, including the Control Arm and the Upper Control Arm (UCA) Mount, both of which exhibited shear failure under load.  
 
@@ -33,9 +33,15 @@ As a member of the Suspension and Dynamics subteam, my primary responsibilities 
 - Resolved inconsistencies in the assembly, including missing files, misaligned components, and non-compliant bolts.  
 - Verified that all bolts adhered to specifications and ensured the dynamic functionality of the assembly.
 
-![UCA Mount](Assets/susp1.jpg)
+![Full Front Assembly](Assets/susp1.jpg)
 
 **Assembly Drawing Creation:**
 
 - Produced an exploded assembly drawing detailing all major components and required quantities for manufacturing and backup purposes.  
 - Simplified the drawing by excluding bolts to focus on the core elements, making it a practical reference for optimization and improvement discussions.  
+
+![Front Assembly Drawing](Assets/susp5.png)
+
+## The Final Result
+
+The front suspension was completed and passed scrutineering at the competition, where I installed the brakes for the vehicle. 
